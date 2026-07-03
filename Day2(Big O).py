@@ -21,3 +21,5 @@ for i in range(3):
 # 5) printing numbers from 1 to 10
 for i in range (0, 10):
     print(i+1)
+
+    
