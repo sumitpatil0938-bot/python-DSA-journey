@@ -46,6 +46,6 @@ last_index = -1
 for i in range(len(arr)):
     if arr[i] == target:
         last_index = i
-        print(last_index)
-        break
+print(last_index)
+        
         
