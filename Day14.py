@@ -77,3 +77,28 @@
 # --> Linear search = O(1)
 
 
+# FINAL BOSS QUESTION 
+# without code .
+
+# Q) arr = [10,20,30,40,50,60,70] target = 60 Found in ? steps ?
+
+#Iteration 1:
+#left = 0
+#right = 6
+#mid = 3
+#arr[mid] = 40
+
+#Iteration 2:
+#left = 4
+#right = 6
+#mid = 5
+#arr[mid] = 60
+
+# --> steps(iteration) = 2
+# aage jane ke jarurat nahi hai 
+
+#Iteration 3:
+#left =
+#right =
+#mid =
+#arr[mid] =
