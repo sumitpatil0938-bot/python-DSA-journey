@@ -1,7 +1,8 @@
 # BUBBLE SORT BASICS
 
 # 1) arr = [4,2,3] Pass 1 ke baad array kya hogi?
-# --> arr =[2,4,3]
+# --> arr =[4,2,3]
+#          [2,4,3] => [2,3,4]
 
 # 2) arr = [3,1,2] Pass 1 ke baad array kya hogi?
 # --> arr = [1,3,2]
