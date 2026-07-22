@@ -22,3 +22,5 @@
 # Pass 1 har comparison likho. Final array after pass 1 ?
 # --> arr = [7,4,2] => n - 1 => 3 - 1 = 2
 #           [7,4,2] => [4,7,2] => [4,2,7]
+
+# Bubble Sort mein har pass ke baad sabse bada element end mein pahunch jata hai.
