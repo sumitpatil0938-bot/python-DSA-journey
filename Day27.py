@@ -1,23 +1,23 @@
 # ANAGRAMS
 
 # 1) "listen"
-#    "silent"
+#    "silent" Anagram ?
 # --> YES
 
 # 2) "hello"
-#    "world"
+#    "world" Anagram ?
 # --> NO
 
 # 3) "race"
-#    "care"
+#    "care" Anagram ?
 # --> YES
 
 # 4) "apple"
-#    "papel"
+#    "papel" Anagram ?
 # --> YES
 
 # 5) "rat"
-#    "car"
+#    "car" Anagram ?
 # --> NO
 
 
